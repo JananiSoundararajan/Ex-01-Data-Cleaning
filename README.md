@@ -44,5 +44,14 @@ df.isnull().sum()
 ![OUTPUT](dfinfo.png)
 ![OUTPUT](dfnull.png)
 ![OUTPUT](nullsum.png)
+## MODE
+![OUTPUT](mode.png)
+## MEAN
+![OUTPUT](mean.png)
+## MEDIAN
+![OUTPUT](median.png)
+## AFTER CLEAN
+![OUTPUT](info.png)
+![OUTPUT](isnull.png)
 # RESULT
 Hence the given data is read and perform data cleaning and saved the cleaned data to a file.
