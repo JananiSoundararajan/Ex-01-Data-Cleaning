@@ -91,3 +91,5 @@ df.isnull().sum()
 ![OUTPUT](loanmedian.png)
 ![OUTPUT](loandfinfo.png)
 ![OUTPUT](loandfisnull.png)
+# RESULT
+Thus the given data is read,cleansed and the cleaned data is saved into the file.
